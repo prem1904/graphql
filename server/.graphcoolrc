@@ -1,0 +1,3 @@
+targets:
+  prod: shared-eu-west-1/ck4fmfitn645g019835655og2
+  default: prod
